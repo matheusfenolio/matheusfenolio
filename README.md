@@ -24,3 +24,6 @@ I started working with .Net and SQL Server, now I'm developing using Spring Fram
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="21px" height="21px"></a>
 <a href="https://deno.land/" title="Deno"><img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" alt="Deno" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
+<a href="https://archlinux.org/" title="ArchLinux"><img src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg" alt="ArchLinux" width="21px" height="21px"></a>
+<a href="https://www.linux.org/" title="Linux"><img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
+
